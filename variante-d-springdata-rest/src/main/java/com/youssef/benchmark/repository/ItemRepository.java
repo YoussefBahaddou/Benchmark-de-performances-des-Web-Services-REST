@@ -1,6 +1,6 @@
-package ma.rest.springdatarest.repository;
+package com.youssef.benchmark.springdatarest.repository;
 
-import ma.rest.entity.Item;
+import com.youssef.benchmark.entity.Item;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

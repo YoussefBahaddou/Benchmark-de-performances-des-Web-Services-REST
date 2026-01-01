@@ -1,4 +1,4 @@
-package ma.rest.jersey.config;
+package com.youssef.benchmark.jersey.config;
 
 import jakarta.persistence.EntityManagerFactory;
 import jakarta.persistence.Persistence;

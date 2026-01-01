@@ -1,6 +1,6 @@
-package ma.rest.springdatarest.repository;
+package com.youssef.benchmark.springdatarest.repository;
 
-import ma.rest.entity.Category;
+import com.youssef.benchmark.entity.Category;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 

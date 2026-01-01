@@ -1,4 +1,4 @@
-package ma.rest.entity;
+package com.youssef.benchmark.entity;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotNull;

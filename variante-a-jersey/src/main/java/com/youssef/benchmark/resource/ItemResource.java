@@ -1,12 +1,12 @@
-package ma.rest.jersey.resource;
+package com.youssef.benchmark.jersey.resource;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
 import jakarta.persistence.EntityTransaction;
 import jakarta.ws.rs.*;
 import jakarta.ws.rs.core.*;
-import ma.rest.entity.Item;
-import ma.rest.jersey.config.JpaManager;
+import com.youssef.benchmark.entity.Item;
+import com.youssef.benchmark.jersey.config.JpaManager;
 
 import java.net.URI;
 import java.util.List;

@@ -1,9 +1,9 @@
-package ma.rest.springmvc.controller;
+package com.youssef.benchmark.springmvc.controller;
 
-import ma.rest.entity.Category;
-import ma.rest.entity.Item;
-import ma.rest.springmvc.repository.CategoryRepository;
-import ma.rest.springmvc.repository.ItemRepository;
+import com.youssef.benchmark.entity.Category;
+import com.youssef.benchmark.entity.Item;
+import com.youssef.benchmark.springmvc.repository.CategoryRepository;
+import com.youssef.benchmark.springmvc.repository.ItemRepository;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
